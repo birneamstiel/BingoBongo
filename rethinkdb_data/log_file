@@ -1,0 +1,38 @@
+2018-03-17T20:08:44.400663000 0.039194s notice: Recursively removing directory /Users/lukas/Programming/SterniBingo/BingoBongo/rethinkdb_data/tmp
+2018-03-17T20:08:44.402600000 0.041133s notice: Initializing directory /Users/lukas/Programming/SterniBingo/BingoBongo/rethinkdb_data
+2018-03-17T20:08:44.402676000 0.041204s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/lukas/Programming/SterniBingo/BingoBongo/rethinkdb_data' did not already exist or is empty.)
+2018-03-17T20:08:44.402695000 0.041224s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2018-03-17T20:08:44.407687000 0.046216s notice: Running on Darwin 16.7.0 x86_64
+2018-03-17T20:08:44.407729000 0.046257s notice: Loading data from directory /Users/lukas/Programming/SterniBingo/BingoBongo/rethinkdb_data
+2018-03-17T20:08:44.607417000 0.245946s info: Automatically using cache size of 173 MB
+2018-03-17T20:08:44.607905000 0.246433s notice: Listening for intracluster connections on port 29015
+2018-03-17T20:08:44.610379000 0.248908s notice: Listening for client driver connections on port 28015
+2018-03-17T20:08:44.610502000 0.249030s notice: Listening for administrative HTTP connections on port 8080
+2018-03-17T20:08:44.610504000 0.249032s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-03-17T20:08:44.610506000 0.249035s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-03-17T20:08:44.610508000 0.249037s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-03-17T20:08:44.610512000 0.249041s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-03-17T20:08:44.610516000 0.249045s notice: Server ready, "Lukass_MBP_2_fritz_box_5wv" 0e79ce41-94ed-4b84-acbb-a37f412b2dcb
+2018-03-17T20:08:47.116028000 2.754709s warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
+2018-03-17T20:08:53.567780000 9.206766s notice: Server got SIGINT from pid 1740, uid 501; shutting down...
+2018-03-17T20:08:53.568023000 9.207009s notice: Shutting down client connections...
+2018-03-17T20:08:53.568193000 9.207179s notice: All client connections closed.
+2018-03-17T20:08:53.568203000 9.207189s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-03-17T20:08:53.570423000 9.209409s notice: Storage engine shut down.
+2018-03-17T20:08:58.444007000 0.012761s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2018-03-17T20:08:58.449104000 0.017855s notice: Running on Darwin 16.7.0 x86_64
+2018-03-17T20:08:58.449133000 0.017884s notice: Loading data from directory /Users/lukas/Programming/SterniBingo/BingoBongo/rethinkdb_data
+2018-03-17T20:08:58.479650000 0.048401s info: Automatically using cache size of 154 MB
+2018-03-17T20:08:58.480040000 0.048791s notice: Listening for intracluster connections on port 29015
+2018-03-17T20:08:58.481317000 0.050067s notice: Listening for client driver connections on port 28015
+2018-03-17T20:08:58.481431000 0.050182s notice: Listening for administrative HTTP connections on port 8080
+2018-03-17T20:08:58.481437000 0.050188s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-03-17T20:08:58.481440000 0.050190s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-03-17T20:08:58.481442000 0.050192s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-03-17T20:08:58.481445000 0.050195s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-03-17T20:08:58.481448000 0.050198s notice: Server ready, "Lukass_MBP_2_fritz_box_5wv" 0e79ce41-94ed-4b84-acbb-a37f412b2dcb
+2018-03-18T10:01:56.410864000 20034.693384s notice: Server got SIGINT from pid 1740, uid 501; shutting down...
+2018-03-18T10:01:56.411069000 20034.693587s notice: Shutting down client connections...
+2018-03-18T10:01:56.412172000 20034.694690s notice: All client connections closed.
+2018-03-18T10:01:56.412180000 20034.694697s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-03-18T10:01:56.417855000 20034.700373s notice: Storage engine shut down.
